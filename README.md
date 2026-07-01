@@ -1,2 +1,2 @@
-# Macropad
+# Ninjapad
 Simple macropad project
