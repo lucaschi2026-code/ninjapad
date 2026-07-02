@@ -20,7 +20,7 @@ Bottom Shell:
 
 The shells are attached with the top over the bottom. The shells are secured with 4 M3x16mm screws.
 ## BOM
-- 1 unsoldered Seeed XIAO RP2040
+- 1 Seeed XIAO RP2040
 - 9 through-hole 1N4148 Diodes
 - 9 MX-Style switches
 - 1 EC11 Rotary encoders
@@ -29,3 +29,4 @@ The shells are attached with the top over the bottom. The shells are secured wit
 - 4 M3x16mm screws
 - 4 M3x5mx4mm heatset inserts
 - 4 M3x5mm screws
+- 1 case (top and bottom shell)
