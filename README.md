@@ -18,6 +18,7 @@ Bottom Shell:
 
 <img width="530" height="488" alt="image" src="https://github.com/user-attachments/assets/d480152a-4b0e-4f59-9b64-7c4f7e594834" />
 
+The shells are attached with the top over the bottom. The shells are secured with 4 M3x16mm screws.
 ## BOM
 - 1 unsoldered Seeed XIAO RP2040
 - 9 through-hole 1N4148 Diodes
