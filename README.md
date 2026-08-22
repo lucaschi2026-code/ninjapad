@@ -5,7 +5,7 @@ Build Montage: https://www.youtube.com/shorts/z15oCYiYoOs
 
 Showcase Edit: https://www.youtube.com/shorts/6WCUAFyBArM
 
-Full Video: 
+Full Video: https://www.youtube.com/watch?v=4l7bW2d6SSs
 
 <img width="500" alt="IMG_4357" src="https://github.com/user-attachments/assets/b043059e-9006-43fa-800c-cea5fe9b103d" />
 
