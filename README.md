@@ -34,7 +34,7 @@ Bottom Shell:
 
 <img width="1022" height="712" alt="image" src="https://github.com/user-attachments/assets/8ed3a195-0d1a-4d91-8a20-b2eb96293112" />
 
-The shells are attached with the top over the bottom. The shells are secured with 4 M3x16mm screws through heat set insets on the bottom shell.
+The shells are attached with the top over the bottom. The shells are secured with 4 M3x16mm screws through heat set inserts on the bottom shell.
 ## BOM
 | Item | Qty |
 |------|-----|
