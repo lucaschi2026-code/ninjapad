@@ -16,7 +16,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
  *                      Spamming keys launches more of them at once.
  *   encoder CW      -> volume up   + kunai thrown left to right
  *   encoder CCW     -> volume down + kunai thrown right to left
- *   encoder press   -> mute        + summoning jutsu (smoke, then snake)
+ *   encoder press   -> mute        + summoning jutsu
  *   idle            -> NINJAPAD filling the screen
  * ==================================================================== */
 
@@ -494,21 +494,21 @@ static const uint8_t PROGMEM art_summon[10][512] = {
 
 #define FRAME_MS         25         /* ~40 fps render tick                  */
 
-#define MAX_SHURIKEN      6         /* how many can be airborne at once     */
+#define MAX_SHURIKEN      10         /* how many can be airborne at once     */
 #define SHURI_W          15
 #define SHURI_H          15
 #define SHURI_SPEED       5         /* px per frame                         */
 
-#define MAX_KUNAI         6         /* same pooling as the shuriken         */
+#define MAX_KUNAI         10         /* same pooling as the shuriken         */
 #define KUNAI_W          27
 #define KUNAI_H          11
 #define KUNAI_SPEED       9         /* faster: it is a throw                */
 
 #define SUMMON_FRAMES    10
 #define SUMMON_FRAME_MS 120         /* 10 * 120ms = 1.2s of jutsu           */
-#define SUMMON_HOLD_MS 1500         /* snake sits on screen this much longer */
+#define SUMMON_HOLD_MS 1000         /* snake sits on screen this longer */
 
-#define IDLE_TEXT_MS   2000         /* blank this long before NINJAPAD      */
+#define IDLE_TEXT_MS   0        /* blank this long before NINJAPAD      */
 
 #define MAX_HELD          9         /* one slot per key on the pad          */
 
