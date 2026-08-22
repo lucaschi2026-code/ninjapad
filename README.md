@@ -12,9 +12,13 @@ Full Video: https://www.youtube.com/watch?v=4l7bW2d6SSs
 <img width="942" height="664" alt="image" src="https://github.com/user-attachments/assets/5b6856f3-0cfe-4003-853f-51cb54998778" />
 
 ## Schematic
+
+Features a matrix to save pins and diodes to prevent ghosting.
 <img width="609" height="460" alt="image" src="https://github.com/user-attachments/assets/249db220-37ac-411f-8c48-c4e5f5564f30" />
 
 ## PCB
+
+Features 2 vias and flipped diodes so that they attach under the PCB.
 <img width="663" height="530" alt="image" src="https://github.com/user-attachments/assets/b9b08a7d-de38-43af-9dab-abf38a7d7581" />
 
 ## Case Components
