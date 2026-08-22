@@ -62,3 +62,4 @@ The shells are attached with the top over the bottom. The shells are secured wit
 | M3x5mmx4mm Heatset Insert | 8 |
 | M3x5mm Screw | 4 |
 | Case (top and bottom shell) | 1 |
+| Custom PCB | 1 |
