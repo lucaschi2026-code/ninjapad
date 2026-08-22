@@ -20,9 +20,13 @@ Full Video: https://www.youtube.com/watch?v=4l7bW2d6SSs
 ## Case Components
 Top Shell:
 
+4 through holes to secure to bottom shell. Underside features 4 insert pockets for heat set inserts to secure PCB. 
+
 <img width="991" height="650" alt="image" src="https://github.com/user-attachments/assets/62d0f8df-4efd-434a-8899-e7c0489585ce" />
 
 Bottom Shell:
+
+4 insert pockets and a cutout for USB cable.
 
 <img width="1022" height="712" alt="image" src="https://github.com/user-attachments/assets/8ed3a195-0d1a-4d91-8a20-b2eb96293112" />
 
