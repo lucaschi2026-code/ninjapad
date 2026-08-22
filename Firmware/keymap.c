@@ -2,6 +2,10 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     // Note that columns top to bottom here are the rows left to right on physical board.
+    // Physical Layout:
+    // LCS(KC_M),  KC_F, LCTL(KC_S)
+    // KC_E, KC_Q, KC_M
+    // KC_S, LCTL(KC_Z), KC_V
     [0] = LAYOUT(
         LCS(KC_M),      KC_E,           KC_S,
         KC_F,           KC_Q,           LCTL(KC_Z),
