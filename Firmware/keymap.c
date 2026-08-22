@@ -1,7 +1,7 @@
 #include QMK_KEYBOARD_H
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
-    // Layer 0: Fusion 360
+    // Note that columns top to bottom here are the rows left to right on physical board.
     [0] = LAYOUT(
         LCS(KC_M),      KC_E,           KC_S,
         KC_F,           KC_Q,           LCTL(KC_Z),
@@ -758,8 +758,6 @@ bool encoder_update_user(uint8_t index, bool clockwise) {
 }
 
 void keyboard_post_init_user(void) {
-    debug_enable = true;
-    debug_matrix = true;
     gpio_set_pin_input_high(GP3);
 }
 
