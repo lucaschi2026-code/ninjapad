@@ -14,9 +14,9 @@ Ninjapad is a macropad with 9 keys, 1 rotary encoder, and an 0.91 inch OLED disp
 ## Features
 
 - 9 key + rotary encoder layout
-- 3D printed case
+- [3D printed case](/Production)
 - [3D printed rotary knob](/Production/Rotary%20Keycap.step)
-- Custom PCB
+- [Custom PCB](/PCB)
 - 128x32 OLED Display
 - [QMK firmware (keys, rotary encoder, OLED can be programmed to anything)](/Firmware)
 - 🎬Naruto inspired animations🎬
