@@ -9,7 +9,7 @@ Ninjapad is a macropad with 9 keys, 1 rotary encoder, and an 0.91 inch OLED disp
 
 <img width="500" alt="IMG_4357" src="https://github.com/user-attachments/assets/b043059e-9006-43fa-800c-cea5fe9b103d" />
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/b4ef7eb6-36e1-4d7b-bb52-7eac4fa3280f" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/4ef08b1a-f050-4a7f-84dd-c2c26a01702f" />
 
 ## Features
 
